@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lbueno-react/static/css/main.e1d46154.css",
+    "main.js": "/lbueno-react/static/js/main.44227537.js",
+    "static/media/textura-branca.jpg": "/lbueno-react/static/media/textura-branca.62a2ef7483a80dc3b282.jpg",
+    "static/media/quem-somos-advocacia.JPEG": "/lbueno-react/static/media/quem-somos-advocacia.45a9822af7d57af7eeda.JPEG",
+    "static/media/cidade-image-fundo.jpg": "/lbueno-react/static/media/cidade-image-fundo.fb533f400b64395fbb2a.jpg",
+    "static/media/lilian-bueno-sobre.JPEG": "/lbueno-react/static/media/lilian-bueno-sobre.be406fd4034be60ff245.JPEG",
+    "static/media/buildings.jpg": "/lbueno-react/static/media/buildings.7d76d170fc96738e7a47.jpg",
+    "static/media/lilian-blusa-preta.jpg": "/lbueno-react/static/media/lilian-blusa-preta.2025a42c9ce3bd2c449d.jpg",
+    "static/media/office.jpg": "/lbueno-react/static/media/office.7c14a4fbdee9d46fa6c9.jpg",
+    "static/media/livros.jpg": "/lbueno-react/static/media/livros.aa826ee8d59fb7ab58d6.jpg",
+    "static/media/cnh-suspensa.jpg": "/lbueno-react/static/media/cnh-suspensa.254293a95dfcd07aea6f.jpg",
+    "static/media/contato.jpg": "/lbueno-react/static/media/contato.57509c87fc4bc4a773d8.jpg",
+    "static/media/goiania-cnh-recupere-suspensa.JPG": "/lbueno-react/static/media/goiania-cnh-recupere-suspensa.a539d98f98f72499cfa0.JPG",
+    "static/media/golpe-do-pix.jpg": "/lbueno-react/static/media/golpe-do-pix.14c5d2e3b53b2bc20338.jpg",
+    "static/media/llian-bueno-preto.png": "/lbueno-react/static/media/llian-bueno-preto.bc07fdaad41d46d3d831.png",
+    "static/media/esse-detalhe-podera-salvar-a-sua-cnh-suspensa.png": "/lbueno-react/static/media/esse-detalhe-podera-salvar-a-sua-cnh-suspensa.385d08671cc48f6dc754.png",
+    "index.html": "/lbueno-react/index.html",
+    "main.e1d46154.css.map": "/lbueno-react/static/css/main.e1d46154.css.map",
+    "main.44227537.js.map": "/lbueno-react/static/js/main.44227537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d46154.css",
+    "static/js/main.44227537.js"
+  ]
+}
