@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.28956af9.css",
-    "main.js": "/static/js/main.4a57c250.js",
+    "main.js": "/static/js/main.d7a5b0a9.js",
     "static/media/textura-branca.jpg": "/static/media/textura-branca.62a2ef7483a80dc3b282.jpg",
     "static/media/quem-somos-advocacia.JPEG": "/static/media/quem-somos-advocacia.45a9822af7d57af7eeda.JPEG",
     "static/media/cidade-image-fundo.jpg": "/static/media/cidade-image-fundo.fb533f400b64395fbb2a.jpg",
@@ -18,10 +18,10 @@
     "static/media/esse-detalhe-podera-salvar-a-sua-cnh-suspensa.png": "/static/media/esse-detalhe-podera-salvar-a-sua-cnh-suspensa.385d08671cc48f6dc754.png",
     "index.html": "/index.html",
     "main.28956af9.css.map": "/static/css/main.28956af9.css.map",
-    "main.4a57c250.js.map": "/static/js/main.4a57c250.js.map"
+    "main.d7a5b0a9.js.map": "/static/js/main.d7a5b0a9.js.map"
   },
   "entrypoints": [
     "static/css/main.28956af9.css",
-    "static/js/main.4a57c250.js"
+    "static/js/main.d7a5b0a9.js"
   ]
 }
