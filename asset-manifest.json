@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b625c371.css",
-    "main.js": "/static/js/main.51da9358.js",
+    "main.js": "/static/js/main.dd8ef788.js",
     "static/media/quem-somos-advocacia.JPEG": "/static/media/quem-somos-advocacia.4382fabf14890097e68e.JPEG",
     "static/media/cidade-image-fundo.jpg": "/static/media/cidade-image-fundo.b9017f3799b323b40f1d.jpg",
     "static/media/rua-cnh-suspensa.jpg": "/static/media/rua-cnh-suspensa.b3c1dc62c03325b33686.jpg",
@@ -20,10 +20,10 @@
     "static/media/cnh-suspensa.jpeg": "/static/media/cnh-suspensa.1df9cf42ddccd7fbc5ff.jpeg",
     "index.html": "/index.html",
     "main.b625c371.css.map": "/static/css/main.b625c371.css.map",
-    "main.51da9358.js.map": "/static/js/main.51da9358.js.map"
+    "main.dd8ef788.js.map": "/static/js/main.dd8ef788.js.map"
   },
   "entrypoints": [
     "static/css/main.b625c371.css",
-    "static/js/main.51da9358.js"
+    "static/js/main.dd8ef788.js"
   ]
 }
