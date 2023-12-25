@@ -1,29 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6c2012d.css",
-    "main.js": "/static/js/main.9db20a29.js",
-    "static/media/quem-somos-advocacia.JPEG": "/static/media/quem-somos-advocacia.4382fabf14890097e68e.JPEG",
-    "static/media/cidade-image-fundo.jpg": "/static/media/cidade-image-fundo.b9017f3799b323b40f1d.jpg",
-    "static/media/rua-cnh-suspensa.jpg": "/static/media/rua-cnh-suspensa.b3c1dc62c03325b33686.jpg",
-    "static/media/buildings.jpg": "/static/media/buildings.7d76d170fc96738e7a47.jpg",
-    "static/media/lilian-blusa-preta.jpg": "/static/media/lilian-blusa-preta.2025a42c9ce3bd2c449d.jpg",
-    "static/media/livros.jpg": "/static/media/livros.aa826ee8d59fb7ab58d6.jpg",
-    "static/media/lilian-bueno-advocacia-servicos.jpg": "/static/media/lilian-bueno-advocacia-servicos.99353fa5e066b6b655ad.jpg",
-    "static/media/textura-branca.jpg": "/static/media/textura-branca.bde433b5e74fd99370be.jpg",
-    "static/media/lilian-bueno-sobre.JPEG": "/static/media/lilian-bueno-sobre.099178165fe91849225f.JPEG",
-    "static/media/cnh-bloqueada.jpg": "/static/media/cnh-bloqueada.254293a95dfcd07aea6f.jpg",
-    "static/media/contato.jpg": "/static/media/contato.57509c87fc4bc4a773d8.jpg",
-    "static/media/golpe-do-pix.jpg": "/static/media/golpe-do-pix.14c5d2e3b53b2bc20338.jpg",
-    "static/media/cnh-cassada.jpeg": "/static/media/cnh-cassada.0f93aeba3bd6914e785b.jpeg",
-    "static/media/lilian-bueno.png": "/static/media/lilian-bueno.a6c47a640b9b179d9104.png",
-    "static/media/llian-bueno-preto.png": "/static/media/llian-bueno-preto.bc07fdaad41d46d3d831.png",
-    "static/media/cnh-suspensa.jpeg": "/static/media/cnh-suspensa.1df9cf42ddccd7fbc5ff.jpeg",
-    "index.html": "/index.html",
-    "main.a6c2012d.css.map": "/static/css/main.a6c2012d.css.map",
-    "main.9db20a29.js.map": "/static/js/main.9db20a29.js.map"
+    "main.css": "/lbueno-react/static/css/main.778a7ee5.css",
+    "main.js": "/lbueno-react/static/js/main.0363e336.js",
+    "static/media/livros.jpg": "/lbueno-react/static/media/livros.aa826ee8d59fb7ab58d6.jpg",
+    "static/media/textura-branca.jpg": "/lbueno-react/static/media/textura-branca.bde433b5e74fd99370be.jpg",
+    "static/media/buildings.webp": "/lbueno-react/static/media/buildings.b47a6d32c157bd852e84.webp",
+    "static/media/rua-cnh-suspensa.webp": "/lbueno-react/static/media/rua-cnh-suspensa.3dbb2b33300e63fd1636.webp",
+    "static/media/contato.jpg": "/lbueno-react/static/media/contato.57509c87fc4bc4a773d8.jpg",
+    "static/media/cidade-image-fundo.webp": "/lbueno-react/static/media/cidade-image-fundo.fd6426665e26382c58e8.webp",
+    "static/media/quem-somos-advocacia.JPEG": "/lbueno-react/static/media/quem-somos-advocacia.f211d764591b9a7ca14b.JPEG",
+    "static/media/lilian-bueno.png": "/lbueno-react/static/media/lilian-bueno.a6c47a640b9b179d9104.png",
+    "static/media/llian-bueno-preto.png": "/lbueno-react/static/media/llian-bueno-preto.bc07fdaad41d46d3d831.png",
+    "static/media/cnh-cassada.webp": "/lbueno-react/static/media/cnh-cassada.5715afcf0d88653d4a4e.webp",
+    "static/media/lilian-bueno-sobre.webp": "/lbueno-react/static/media/lilian-bueno-sobre.8823517601e36a802eb3.webp",
+    "static/media/lilian-bueno-advocacia-servicos.webp": "/lbueno-react/static/media/lilian-bueno-advocacia-servicos.a153eb729d7b72917485.webp",
+    "static/media/cnh-bloqueada.webp": "/lbueno-react/static/media/cnh-bloqueada.bdb0c8d2c60134e8fc7b.webp",
+    "static/media/cnh-suspensa.webp": "/lbueno-react/static/media/cnh-suspensa.c9d68976fa3269e0a7ee.webp",
+    "index.html": "/lbueno-react/index.html",
+    "main.778a7ee5.css.map": "/lbueno-react/static/css/main.778a7ee5.css.map",
+    "main.0363e336.js.map": "/lbueno-react/static/js/main.0363e336.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c2012d.css",
-    "static/js/main.9db20a29.js"
+    "static/css/main.778a7ee5.css",
+    "static/js/main.0363e336.js"
   ]
 }
